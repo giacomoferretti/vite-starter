@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+._*
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Logs
+logs
+*.log
+
+# Node
+node_modules
+
+# dotenv
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
