@@ -4,7 +4,7 @@
 
 -   Vite
 -   Tailwind
--   Fix IE < 11 and Safari < 11.1 RGB4 Tailwind 3.0 ([postcss-color-rgb](https://github.com/7studio/postcss-color-rgb))
+-   Fix IE <= 11 and Safari <= 11.1 RGB4 Tailwind 3.0 ([postcss-color-rgb](https://github.com/7studio/postcss-color-rgb))
 
 ## Setup
 
