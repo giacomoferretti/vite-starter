@@ -2,8 +2,9 @@
 
 ## Features
 
--   Vite
--   Tailwind
+-   [pnpm](https://pnpm.io/)
+-   [Vite](https://vitejs.dev/)
+-   [Tailwind CSS](https://tailwindcss.com/)
 -   Fix IE <= 11 and Safari <= 11.1 RGB4 Tailwind 3.0 ([postcss-color-rgb](https://github.com/7studio/postcss-color-rgb))
 
 ## Setup
