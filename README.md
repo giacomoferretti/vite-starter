@@ -232,6 +232,19 @@
     });
     ```
 
+19. `pnpm install -D vitest`
+
+20. Edit `package.json`
+
+    ```json
+    {
+        "scripts": {
+            "test": "vitest",
+            "coverage": "vitest run --coverage"
+        }
+    }
+    ```
+
 ## Structure
 
 ```
