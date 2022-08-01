@@ -8,13 +8,14 @@ const App = () => {
   };
 
   return (
-    <div className="h-full bg-neutral-900 flex items-center justify-center flex-col">
-      <h1 className="font-bold text-4xl text-white mb-4">Vite Starter</h1>
+    <div className="flex h-full flex-col items-center justify-center bg-neutral-900">
+      <img src="/vite.svg" className="mb-4 h-16" alt="Vite logo" />
+      <h1 className="mb-4 text-4xl font-bold text-white">Vite Starter</h1>
       <button
-        className="bg-blue-500 p-4 rounded text-white"
+        className="rounded bg-blue-500 p-4 text-white"
         type="button"
         onClick={onClick}>
-        Count is: <span className="font-bold">{count}</span>
+        Count is: <strong className="font-bold">{count}</strong>
       </button>
     </div>
   );
