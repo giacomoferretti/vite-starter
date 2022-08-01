@@ -1,10 +1,14 @@
-# Vite Starter
+# Vite React Starter
 
 ## Features
 
--   [pnpm](https://pnpm.io/)
 -   [Vite](https://vitejs.dev/)
+-   [React](https://reactjs.org/)
+-   [TypeScript]https://www.typescriptlang.org/
+-   [pnpm](https://pnpm.io/)
 -   [Tailwind CSS](https://tailwindcss.com/)
+-   [ESLint](https://eslint.org/)
+-   [Prettier](https://prettier.io/)
 
 ## Setup
 
