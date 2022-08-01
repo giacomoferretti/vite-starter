@@ -1,5 +1,7 @@
 import { useState } from "react";
 
+import viteLogo from "@/assets/vite.svg";
+
 const App = () => {
   const [count, setCount] = useState(0);
 
@@ -9,7 +11,7 @@ const App = () => {
 
   return (
     <div className="flex h-full flex-col items-center justify-center bg-neutral-900">
-      <img src="/vite.svg" className="mb-4 h-16" alt="Vite logo" />
+      <img src={viteLogo} className="mb-4 h-16" alt="Vite logo" />
       <h1 className="mb-4 text-4xl font-bold text-white">Vite Starter</h1>
       <button
         className="rounded bg-blue-500 p-4 text-white"
