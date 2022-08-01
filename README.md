@@ -4,7 +4,7 @@
 
 -   [Vite](https://vitejs.dev/)
 -   [React](https://reactjs.org/)
--   [TypeScript]https://www.typescriptlang.org/
+-   [TypeScript](https://www.typescriptlang.org/)
 -   [pnpm](https://pnpm.io/)
 -   [Tailwind CSS](https://tailwindcss.com/)
 -   [ESLint](https://eslint.org/)
