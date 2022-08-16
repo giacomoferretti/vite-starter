@@ -27,3 +27,7 @@ node_modules
 # Vite
 dist
 dist-ssr
+
+# Cypress
+cypress/videos
+cypress/screenshots
